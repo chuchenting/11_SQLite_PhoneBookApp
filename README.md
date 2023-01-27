@@ -27,7 +27,7 @@ cd com.example.your_project_name
 
 Step 7: start the SQLite tool by creating a database 
 ```
-sqlite3 address_book. db
+sqlite3 address_book.db
 ```
 
 Step 8: create a table named "person" with four fields. 
